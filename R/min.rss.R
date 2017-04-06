@@ -1,8 +1,11 @@
-#' min.rss 
+#' @title min.rss 
+#' 
+#' Description min.rss 
+#' 
 #' @param data
 #' @param par
-min.rss <-
-function(data,par){
+#' @return min.rss
+min.rss <- function(data,par){
     with(data, sum((ddso -  
                         ddsoSim(days,
                                fW,

@@ -1,10 +1,13 @@
-#' ppReturn 
+#' @title ppReturn 
+#' 
+#' Description ppReturn 
+#' 
 #' @param x
 #' @param feed.time=720
 #' @param thresh=0.00001
 #' @param minutes=FALSE
-ppReturn <-
-function(x,feed.time=720,thresh=0.00001,minutes=FALSE){
+#' @return ppReturn
+ppReturn <- function(x,feed.time=720,thresh=0.00001,minutes=FALSE){
     o2 <- x$Oxygen
     days <- (length(o2)) / 1440
     mids <- seq((feed.time + 1) , (feed.time + 1 + (1440 *

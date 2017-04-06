@@ -1,9 +1,12 @@
-#' ppAnoxia 
+#' @title ppAnoxia 
+#' 
+#' Description ppAnoxia 
+#' 
 #' @param x
 #' @param thresh=0.05
 #' @param relative=TRUE
-ppAnoxia <-
-function(x,thresh=0.05,relative=TRUE){
+#' @return ppAnoxia
+ppAnoxia <- function(x,thresh=0.05,relative=TRUE){
     o2 <- x$Oxygen
     if (relative){out <- length(o2[o2 <= thresh]) / length(o2)}else{
         out <- length(o2[o2 <= thresh])

@@ -1,4 +1,7 @@
-#' normal.noise 
+#' @title normal.noise 
 #' 
-normal.noise <-
-function(){rnorm(1,sd=3)}
+#' Description normal.noise 
+#' 
+#' 
+#' @return normal.noise
+normal.noise <- function(){rnorm(1,sd=3)}

@@ -1,11 +1,14 @@
-#' ppHyst 
+#' @title ppHyst 
+#' 
+#' Description ppHyst 
+#' 
 #' @param x
 #' @param n1
 #' @param n2
 #' @param feedingTime=720
 #' @param tol=0
-ppHyst <-
-function(x,n1,n2,feedingTime=720,tol=0){
+#' @return ppHyst
+ppHyst <- function(x,n1,n2,feedingTime=720,tol=0){
     if (class(x) != 'numeric' & 
         (class(x) == 'data.frame' | class(x) == 'matrix')){
         x <- x$Oxygen

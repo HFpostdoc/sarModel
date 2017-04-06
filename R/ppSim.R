@@ -1,4 +1,7 @@
-#' ppSim 
+#' @title ppSim 
+#' 
+#' Description ppSim 
+#' 
 #' @param days=5
 #' @param foodWeight=1
 #' @param beta=4.5e-06
@@ -21,8 +24,8 @@
 #' @param bound.max=FALSE
 #' @param verbose=FALSE 
 #' @param decycle = FALSE
-ppSim <-
-function(days=5,foodWeight=1,beta=4.5e-06,d=5,
+#' @return ppSim
+ppSim <- function(days=5,foodWeight=1,beta=4.5e-06,d=5,
                   k=2,Amax=20,Amin=Amax/1.5,m=0,aMax=2 ,aMin=1,
                   s=1 ,feedingTime=720,c=1,x0=0,w0=0,w.w=75,
                   photo.val = 1,Ascalar = 0.75,Bscalar = 1,
