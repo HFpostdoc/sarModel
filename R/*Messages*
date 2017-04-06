@@ -1,0 +1,382 @@
+
+Quit [2 times]
+File mode specification error: (invalid-function with-silent-modifications) [22 times]
+Defining kbd macro...
+Mark saved where search started
+Keyboard macro defined
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/PAR.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/PAR.R
+(Type e to repeat macro) [4 times]
+Undo! [8 times]
+(Type e to repeat macro) [4 times]
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/augmentation.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/augmentation.R
+(No changes need to be saved)
+(Type e to repeat macro) [6 times]
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/carpenterMod.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/carpenterMod.R
+(Type e to repeat macro) [3 times]
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/ddsoSim.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/ddsoSim.R
+(Type e to repeat macro) [3 times]
+Undo! [2 times]
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/decomp.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/decomp.R
+(No changes need to be saved)
+(Type e to repeat macro) [2 times]
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/hill.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/hill.R
+(Type e to repeat macro) [10 times]
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/lagit.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/lagit.R
+(Type e to repeat macro) [10 times]
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/lagplot.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/lagplot.R
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/maxify.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/maxify.R
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/min.rss.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/min.rss.R
+(Type e to repeat macro) [2 times]
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/mineralization.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/mineralization.R
+(Type e to repeat macro) [2 times]
+Undo! [2 times]
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/minify.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/minify.R
+(No changes need to be saved)
+(Type e to repeat macro) [8 times]
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/noiseSimulator.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/noiseSimulator.R
+(No changes need to be saved) [3 times]
+(Type e to repeat macro) [6 times]
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/photo.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/photo.R
+(Type e to repeat macro) [2 times]
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/ppAnoxia.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/ppAnoxia.R
+(Type e to repeat macro) [4 times]
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/ppHyst.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/ppHyst.R
+(Type e to repeat macro) [3 times]
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/ppReturn.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/ppReturn.R
+(Type e to repeat macro) [6 times]
+Mark set
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/ppSim.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/ppSim.R
+(Type e to repeat macro) [4 times]
+Mark set
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/ppSim.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/ppSim.R
+(Type e to repeat macro) [7 times]
+Mark activated
+call-interactively: No recursive edit is in progress
+Mark activated
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/ppSim.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/ppSim.R
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/ppSim.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/ppSim.R
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/ppSim.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/ppSim.R
+Mark set
+(Type e to repeat macro) [2 times]
+Quit [2 times]
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/ppSim.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/ppSim.R
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/ppSim.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/ppSim.R
+(No changes need to be saved) [2 times]
+(Type e to repeat macro) [2 times]
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/rescale.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/rescale.R
+Undo! [2 times]
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/rescale.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/rescale.R
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/rescale.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/rescale.R
+(No changes need to be saved)
+(Type e to repeat macro) [3 times]
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/simPrey.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/simPrey.R
+(No changes need to be saved) [2 times]
+File mode specification error: (invalid-function with-silent-modifications) [22 times]
+Defining kbd macro...
+Keyboard macro defined
+Defining kbd macro...
+Mark set
+Mark deactivated
+Mark saved where search started
+Keyboard macro defined
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/PAR.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/PAR.R
+(No changes need to be saved) [2 times]
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/augmentation.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/augmentation.R
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/carpenterMod.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/carpenterMod.R
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/ddsoSim.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/ddsoSim.R
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/decomp.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/decomp.R
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/hill.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/hill.R
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/lagit.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/lagit.R
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/lagplot.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/lagplot.R
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/maxify.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/maxify.R
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/min.rss.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/min.rss.R
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/mineralization.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/mineralization.R
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/minify.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/minify.R
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/noiseSimulator.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/noiseSimulator.R
+(No changes need to be saved)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/photo.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/photo.R
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/ppAnoxia.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/ppAnoxia.R
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/ppHyst.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/ppHyst.R
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/ppReturn.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/ppReturn.R
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/ppSim.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/ppSim.R
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/rescale.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/rescale.R
+(No changes need to be saved)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Mark deactivated
+(Type e to repeat macro)
+Saving file /Users/hermes/Labs/HF/projects/sarModel/R/simPrey.R...
+Wrote /Users/hermes/Labs/HF/projects/sarModel/R/simPrey.R
+completing-read-default: Command attempted to use minibuffer while in minibuffer
