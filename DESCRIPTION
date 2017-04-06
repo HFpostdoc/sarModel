@@ -1,10 +1,10 @@
-Package: SarModel
+Package: sarModel
 Type: Package
-Title: What the package does (short line)
-Version: 1.0
+Title: Sarracenia micro-ecosystem model
+Version: 0.1
 Date: 2017-04-06
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Author: M.K. Lau, N. Justice, A.M. Ellison
+Maintainer: M.K. Lau <matthewklau [hat] fas.harvard.edu>
+Description: Provides tools to simulate the dynamics of a micro-ecosystem.
 License: What license is it under?
 RoxygenNote: 6.0.1
