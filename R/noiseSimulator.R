@@ -11,6 +11,7 @@
 #' @param FUN FUN
 #' @param NOISE NOISE
 #' @param verbose verbose
+#' @export noiseSimulator
 #' @return noiseSimulator
 noiseSimulator <- function(x0,tf=100,a=1,b=1,r=1,eta=0,FUN,NOISE,verbose=FALSE){
     x <- x0

@@ -9,6 +9,7 @@
 #' @param r r
 #' @param FUN FUN
 #' @param verbose verbose
+#' @export carpenterMod
 #' @return carpenterMod
 carpenterMod <- function(x0,tf=100,a=1,b=1,r=1,FUN,verbose=FALSE){
     x <- x0

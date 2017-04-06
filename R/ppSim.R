@@ -24,6 +24,7 @@
 #' @param bound bound
 #' @param verbose verbose
 #' @param decycle decycle
+#' @export ppSim
 #' @return ppSim
 ppSim <- function(days=5,foodWeight=1,beta=4.5e-06,d=5,
                   k=2,Amax=20,Amin=Amax/1.5,m=0,aMax=2 ,aMin=1,

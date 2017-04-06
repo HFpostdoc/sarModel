@@ -7,6 +7,7 @@
 #' @param prey prey
 #' @param perturb perturb
 #' @param perturb perturb
+#' @export simPrey
 #' @return simPrey
 simPrey <- function(days = 30, prey.mass = 10,prey.rate = 3,perturb.mass = 10, perturb.rate = 3){
 

@@ -6,6 +6,7 @@
 #' @param fW fW
 #' @param beta beta
 #' @param k k
+#' @export ddsoSim
 #' @return ddsoSim
 ddsoSim <- function(days,fW,beta,k){
     x <- ppSim(days=days, 

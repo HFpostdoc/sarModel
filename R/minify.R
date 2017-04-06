@@ -4,6 +4,7 @@
 #' 
 #' @param x x
 #' @param p p
+#' @export minify
 #' @return minify
 minify <- function(x,p=1440){
     out <- list()

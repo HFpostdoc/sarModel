@@ -9,6 +9,7 @@
 #' @param LCP LCP
 #' @param start start
 #' @param amp amp
+#' @export photo
 #' @return photo
 photo <- function(days=3,Amax=1,Amin=0,Aqe=0.3,LCP=0,start=0,amp=50){
     out <- Amax * (1 - exp(-Aqe * (PAR(days,start,amp) - LCP)))

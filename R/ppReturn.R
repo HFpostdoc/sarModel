@@ -5,6 +5,7 @@
 #' @param x x
 #' @param thresh thresh
 #' @param minutes minutes
+#' @export ppReturn
 #' @return ppReturn
 ppReturn <- function(x,feed.time=720,thresh=0.00001,minutes=FALSE){
     o2 <- x$Oxygen

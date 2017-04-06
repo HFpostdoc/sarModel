@@ -4,6 +4,7 @@
 #' 
 #' @param x x
 #' @param p p
+#' @export maxify
 #' @return maxify
 maxify <- function(x,p=1440){
     out <- list()

@@ -4,6 +4,7 @@
 #' 
 #' @param x x
 #' @param relative relative
+#' @export ppAnoxia
 #' @return ppAnoxia
 ppAnoxia <- function(x,thresh=0.05,relative=TRUE){
     o2 <- x$Oxygen

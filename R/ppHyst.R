@@ -7,6 +7,7 @@
 #' @param n2 n2
 #' @param feedingTime feedingTime
 #' @param tol tol
+#' @export ppHyst
 #' @return ppHyst
 ppHyst <- function(x,n1,n2,feedingTime=720,tol=0){
     if (class(x) != 'numeric' & 

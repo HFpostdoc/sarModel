@@ -4,6 +4,7 @@
 #' 
 #' @param data data
 #' @param par par
+#' @export min.rss
 #' @return min.rss
 min.rss <- function(data,par){
     with(data, sum((ddso -  
