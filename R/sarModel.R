@@ -5,5 +5,5 @@
 #'
 #' The main workhorse function in \pkg{sarModel} is \code{\link{ppSim}}. 
 #'
-"_sarModel"
-#> [1] "_sarModel"
+"_PACKAGE"
+#> [1] "_PACKAGE"
