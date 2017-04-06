@@ -2,13 +2,13 @@
 #' 
 #' Runs simulation of the Carpenter Lake model
 #' 
-#' @param x0
-#' @param tf=100
-#' @param a=1
-#' @param b=1
-#' @param r=1
-#' @param FUN
-#' @param verbose=FALSE
+#' @param x0 x0
+#' @param tf tf
+#' @param a a
+#' @param b b
+#' @param r r
+#' @param FUN FUN
+#' @param verbose verbose
 #' @return carpenterMod
 carpenterMod <- function(x0,tf=100,a=1,b=1,r=1,FUN,verbose=FALSE){
     x <- x0

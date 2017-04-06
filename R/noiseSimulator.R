@@ -2,15 +2,15 @@
 #' 
 #' Description noiseSimulator 
 #' 
-#' @param x0
-#' @param tf=100
-#' @param a=1
-#' @param b=1
-#' @param r=1
-#' @param eta=0
-#' @param FUN
-#' @param NOISE
-#' @param verbose=FALSE
+#' @param x0 x0
+#' @param tf tf
+#' @param a a
+#' @param b b
+#' @param r r
+#' @param eta eta
+#' @param FUN FUN
+#' @param NOISE NOISE
+#' @param verbose verbose
 #' @return noiseSimulator
 noiseSimulator <- function(x0,tf=100,a=1,b=1,r=1,eta=0,FUN,NOISE,verbose=FALSE){
     x <- x0

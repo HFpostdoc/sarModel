@@ -2,8 +2,8 @@
 #' 
 #' Description minify 
 #' 
-#' @param x
-#' @param p=1440
+#' @param x x
+#' @param p p
 #' @return minify
 minify <- function(x,p=1440){
     out <- list()

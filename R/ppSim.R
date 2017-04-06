@@ -2,28 +2,28 @@
 #' 
 #' Description ppSim 
 #' 
-#' @param days=5
-#' @param foodWeight=1
-#' @param beta=4.5e-06
-#' @param d=5
-#' @param k=2
-#' @param Amax=20
-#' @param Amin=Amax/1.5
-#' @param m=0
-#' @param aMax=2 
-#' @param aMin=1
-#' @param s=1 
-#' @param feedingTime=720
-#' @param c=1
-#' @param x0=0
-#' @param w0=0
-#' @param w.w=75
-#' @param photo.val = 1
-#' @param Ascalar = 0.75
-#' @param Bscalar = 1
-#' @param bound.max=FALSE
-#' @param verbose=FALSE 
-#' @param decycle = FALSE
+#' @param days days
+#' @param foodWeight foodWeight
+#' @param beta beta
+#' @param d d
+#' @param k k
+#' @param Amax Amax
+#' @param Amin Amin
+#' @param m m
+#' @param aMax aMax
+#' @param aMin aMin
+#' @param s s
+#' @param feedingTime feedingTime
+#' @param c c
+#' @param x0 x0
+#' @param w0 w0
+#' @param w w
+#' @param photo photo
+#' @param Ascalar Ascalar
+#' @param Bscalar Bscalar
+#' @param bound bound
+#' @param verbose verbose
+#' @param decycle decycle
 #' @return ppSim
 ppSim <- function(days=5,foodWeight=1,beta=4.5e-06,d=5,
                   k=2,Amax=20,Amin=Amax/1.5,m=0,aMax=2 ,aMin=1,

@@ -2,9 +2,8 @@
 #' 
 #' Description ppAnoxia 
 #' 
-#' @param x
-#' @param thresh=0.05
-#' @param relative=TRUE
+#' @param x x
+#' @param relative relative
 #' @return ppAnoxia
 ppAnoxia <- function(x,thresh=0.05,relative=TRUE){
     o2 <- x$Oxygen

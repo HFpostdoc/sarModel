@@ -2,8 +2,8 @@
 #' 
 #' Description min.rss 
 #' 
-#' @param data
-#' @param par
+#' @param data data
+#' @param par par
 #' @return min.rss
 min.rss <- function(data,par){
     with(data, sum((ddso -  

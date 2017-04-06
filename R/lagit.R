@@ -2,17 +2,17 @@
 #' 
 #' Description lagit 
 #' 
-#' @param x
-#' @param k=1
-#' @param xlab
-#' @param ylab
-#' @param type='l'
-#' @param std=FALSE
-#' @param add=FALSE
-#' @param col='grey'
-#' @param pch=19
-#' @param cex=1
-#' @param lwd=1
+#' @param x x
+#' @param k k
+#' @param xlab xlab
+#' @param ylab ylab
+#' @param type type
+#' @param std std
+#' @param add add
+#' @param col col
+#' @param pch pch
+#' @param cex cex
+#' @param lwd lwd
 #' @return lagit
 lagit <- function(x,k=1,xlab,ylab,type='l',std=FALSE,add=FALSE,col='grey',pch=19,cex=1,lwd=1){
     if (missing(xlab)){xlab <- 'x'}

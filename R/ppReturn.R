@@ -2,10 +2,9 @@
 #' 
 #' Description ppReturn 
 #' 
-#' @param x
-#' @param feed.time=720
-#' @param thresh=0.00001
-#' @param minutes=FALSE
+#' @param x x
+#' @param thresh thresh
+#' @param minutes minutes
 #' @return ppReturn
 ppReturn <- function(x,feed.time=720,thresh=0.00001,minutes=FALSE){
     o2 <- x$Oxygen

@@ -2,11 +2,11 @@
 #' 
 #' Description ppHyst 
 #' 
-#' @param x
-#' @param n1
-#' @param n2
-#' @param feedingTime=720
-#' @param tol=0
+#' @param x x
+#' @param n1 n1
+#' @param n2 n2
+#' @param feedingTime feedingTime
+#' @param tol tol
 #' @return ppHyst
 ppHyst <- function(x,n1,n2,feedingTime=720,tol=0){
     if (class(x) != 'numeric' & 

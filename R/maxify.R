@@ -2,8 +2,8 @@
 #' 
 #' Description maxify 
 #' 
-#' @param x
-#' @param p=1440
+#' @param x x
+#' @param p p
 #' @return maxify
 maxify <- function(x,p=1440){
     out <- list()

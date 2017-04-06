@@ -2,8 +2,8 @@
 #' 
 #' Description hill 
 #' 
-#' @param x
-#' @param p=100
-#' @param h=150
+#' @param x x
+#' @param p p
+#' @param h h
 #' @return hill
 hill <- function(x,p=100,h=150){x^p / (x^p + h^p)}

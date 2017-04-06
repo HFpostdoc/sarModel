@@ -2,10 +2,10 @@
 #' 
 #' Description ddsoSim 
 #' 
-#' @param days
-#' @param fW
-#' @param beta
-#' @param k
+#' @param days days
+#' @param fW fW
+#' @param beta beta
+#' @param k k
 #' @return ddsoSim
 ddsoSim <- function(days,fW,beta,k){
     x <- ppSim(days=days, 
