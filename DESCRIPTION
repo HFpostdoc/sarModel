@@ -4,7 +4,7 @@ Title: Sarracenia micro-ecosystem model
 Version: 0.1
 Date: 2017-04-06
 Author: M.K. Lau, N. Justice, A.M. Ellison
-Maintainer: M.K. Lau <matthewklau [hat] fas.harvard.edu>
+Maintainer: M.K. Lau <matthewklau@fas.harvard.edu>
 Description: Provides tools to simulate the dynamics of a micro-ecosystem.
-License: What license is it under?
+License: GPLv2.0
 RoxygenNote: 6.0.1
