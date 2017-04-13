@@ -15,7 +15,7 @@
 #' @param lwd lwd
 #' @export lagplot
 #' @return lagplot
-lagplot <- function(x,k=1,xlab,ylab,type='l',std=FALSE,add=FALSE,col='grey',pch=19,cex=1,lwd=1){
+lagplot <- function(x,k=1,xlab='',ylab='',type='l',std=FALSE,add=FALSE,col='grey',pch=19,cex=1,lwd=1){
     if (missing(xlab)){xlab <- 'x'}
     if (missing(ylab)){ylab <- expression('x'[t+k])}
     if (std){x <- (x-mean(x))/sd(x)}
