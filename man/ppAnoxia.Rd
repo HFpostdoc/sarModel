@@ -6,7 +6,7 @@
 
 Description ppAnoxia}
 \usage{
-ppAnoxia(x, thresh = 0.05, relative = TRUE)
+ppAnoxia(x, thresh = 1.6, relative = TRUE)
 }
 \arguments{
 \item{x}{x}

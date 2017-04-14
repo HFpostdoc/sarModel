@@ -6,8 +6,8 @@
 
 Description lagplot}
 \usage{
-lagplot(x, k = 1, xlab, ylab, type = "l", std = FALSE, add = FALSE,
-  col = "grey", pch = 19, cex = 1, lwd = 1)
+lagplot(x, k = 1, xlab = "", ylab = "", type = "l", std = FALSE,
+  add = FALSE, col = "grey", pch = 19, cex = 1, lwd = 1)
 }
 \arguments{
 \item{x}{x}
