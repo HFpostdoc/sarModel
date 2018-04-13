@@ -4,6 +4,23 @@ Simulated the dynamics of the inquiline food web inside *Sarracenia*
 pitcher plants. A description of the model can be found in Sirota et
 al. 2013 and Lau et al. 2018.
 
+You can explore the response of different state variables of the
+pitcher plant model to changes food addition or parameterizations of
+the model.
+
+# Running the simulator
+
+The model is implemented in Shiny and can be accessed at the following:
+
+- https://harvardforest.shinyapps.io/virtualpitcherplant/
+
+The model can also be run from R using the following:
+
+```R
+library(shin)
+runGitHub("HarvardForest/virtualPitcherPlant")
+
+```
 
 # References
 Sirota, J., B. Baiser, N. J. Gotelli, A. M. Ellison, Organic-matter
